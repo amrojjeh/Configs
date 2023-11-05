@@ -27,7 +27,6 @@ max-depth = 10
 
 [editor.whitespace.render]
 newline = "all"
-tab = "all"
 
 [keys.insert]
 up = "no_op"
